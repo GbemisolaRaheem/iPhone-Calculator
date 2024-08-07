@@ -1,38 +1,44 @@
-iPhone Calculator
-This is a simple iPhone-style calculator created using HTML and CSS. The calculator mimics the look and feel of the native iOS calculator app, providing basic arithmetic operations.
+# iPhone Calculator
 
-Features
-Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
-Responsive Design: The calculator is designed to be responsive and work on various screen sizes.
-iPhone-style UI: The calculator mimics the design of the native iOS calculator app.
-Demo
-You can view a live demo of the calculator here.
+A simple and stylish calculator inspired by the iPhone's design, built with HTML and CSS. This project aims to recreate the classic calculator interface with a clean and modern look.
 
-Screenshots
+## Features
 
-Installation
-To get a local copy up and running, follow these simple steps:
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Responsive design to fit various screen sizes
+- iPhone-like interface with smooth transitions and animations
 
-Clone the repo
+## Demo
 
-sh
+You can view the live demo of the iPhone Calculator [here](URL_TO_YOUR_DEMO).
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/iphone-calculator.git
+Navigate to the project directory:
+
+bash
 Copy code
-git clone https://github.com/yourusername/iphone-calculator.git
-Open the HTML file
-Open the index.html file in your preferred web browser.
+cd iphone-calculator
+Open index.html in your web browser.
 
 Usage
-Simply click on the numbers and operations to perform calculations.
-The C button clears the current input.
-The +/- button changes the sign of the current input.
-The % button performs a modulo operation.
+Open the index.html file in any modern web browser.
+Use the calculator by clicking the buttons to perform basic arithmetic operations.
+Technologies Used
+HTML
+CSS
+Screenshots
+
 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you’d like to contribute to this project, feel free to submit a pull request or open an issue for any bugs or enhancements.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+Contact
+For any questions or suggestions, you can reach me at gbemisolaabdulraheem797@gmail.com.
